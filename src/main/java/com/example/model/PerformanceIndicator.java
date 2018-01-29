@@ -1,5 +1,5 @@
-package com.example.model;
-// Generated Jan 26, 2018 7:48:52 PM by Hibernate Tools 4.3.5.Final
+// default package
+// Generated Jan 26, 2018 7:38:22 PM by Hibernate Tools 4.3.5.Final
 
 import java.util.Date;
 import javax.persistence.Column;
